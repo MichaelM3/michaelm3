@@ -9,7 +9,7 @@
 ## Here's a link to my linkedIn page to learn more about my work experience, and goals <a href="https://www.linkedin.com/in/michael-muniz94/">LinkedIn</a>
 
 ## 💻 Tech Stack
-* Languages: Javascript | Typescript | Ruby | Python | SQL
+* Languages: Javascript | Typescript | Ruby | Python | SQL | HTML/CSS
 * Frameworks: React/Next | Rails | Flask
 * Deployment/DB/Container: Heroku | Docker | Postgresql | Mysql
 * Bundlers/PkgManagers: Webpack | Rollup | Snowpack | Vite | Yarn | NPM
