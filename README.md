@@ -10,9 +10,14 @@
 
 ## 💻 Tech Stack
 * Languages: Javascript | Typescript | Ruby | Python | SQL | HTML/CSS
-* Frameworks: React/Next | Rails | Flask
+* Frameworks: React/Next | Rails
 * Deployment/DB/Container: Heroku | Docker | Postgresql | Mysql
-* Bundlers/PkgManagers: Webpack | Rollup | Snowpack | Vite | Yarn | NPM
+* Bundlers/PkgManagers: Webpack | Rollup | Vite | Yarn | NPM
+
+## 🔭 I’m currently working on
+* Improving my typescript by writing nodejs, and react applications
+* Polishing my Auth concepts with Ruby on Rails
+* Trying out nextjs13 and learning all about server components
 
 ## 💬 Ask me about
 * Video games or movies/shows! I'm a cinefile and an avid/competitive gamer 😁
