@@ -6,7 +6,7 @@
 	| Flatiron Bootcamp Graduate - Full Stack Web Developer - Gamer - Streamer |
 </h3>
 
-## Here's a link to my linkedIn page to learn more about my work experience, and goals <a href="https://www.linkedin.com/in/michael-muniz94/">LinkedIn</a>
+## <a href="https://www.linkedin.com/in/michael-muniz94/">LinkedIn</a> <- To learn more about my experience, and goals!
 
 ## 💻 Tech Stack
 * Languages: Javascript | Typescript | Ruby | Python | SQL | HTML/CSS
