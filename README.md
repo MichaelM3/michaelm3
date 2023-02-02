@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	| Flatiron Bootcamp Graduate - Full stack web developer - Gamer |
+	| Flatiron Bootcamp Graduate - Full stack Web Developer - Gamer | Streamer |
 </h3>
 
 ## Here's a link to my linkedIn page to learn more about my work experience, and goals <a href="https://www.linkedin.com/in/michael-muniz94/">LinkedIn</a>
