@@ -16,7 +16,7 @@
 * Bundlers/PkgManagers: Webpack | Rollup | Vite | Yarn | NPM
 
 ## 🔭 I’m currently working on
-* Improving my typescript
+* Improving my typescript and nodejs development at my current company
 * Learning Rust!!
 * Implementing more devops into my workflow by using services like AWS
 
