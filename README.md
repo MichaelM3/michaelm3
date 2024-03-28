@@ -10,10 +10,8 @@
 
 ## 💻 Tech Stack
 * Languages: Javascript | Typescript | Ruby | Python | SQL | HTML/CSS
-* Frameworks: React | Rails | FastAPI | Express
-* ORMS: ActiveRecord | Sequelize | SQLAlchemy | TypeORM
-* Deployment/DB/Container: Heroku | Docker | Postgresql | MySQL
-* Bundlers/PkgManagers: Webpack | Rollup | Vite | Yarn | NPM
+* Frameworks: React | Rails | FastAPI | Express | NestJS
+* Deployment/DB/Container: Docker | Postgresql | MySQL | AWS | GCP
 
 ## 🔭 I’m currently working on
 * Improving my typescript and nodejs development at my current company
